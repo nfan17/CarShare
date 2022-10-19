@@ -1,5 +1,5 @@
 # CarShare
-Experimental simulation based on car sharing commute system tallying various statistics.
+Experimental simulation based on car sharing commute system tallying various statistics. Final project for summer CS5B (CECS 174 equivalent).
 
 ## About 
 - Simulation will automatically run to completion, randomly generates all factors.
